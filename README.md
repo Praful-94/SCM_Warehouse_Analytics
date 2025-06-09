@@ -3,7 +3,6 @@
 
 A SQL-based Supply Chain Management (SCM) warehouse project that includes schema design, data import structure, and analytical queries to extract real-time business insights.
 
----
 
 ## Project Overview
 
@@ -83,9 +82,8 @@ IGNORE 1 ROWS;
 -- Repeat for other CSVs
 ```
 > You can also import by
-```
 Table Data Import Wizard
-```
+
 ### 3. Run the Analytical Queries
 
 ```sql
